@@ -1,0 +1,13 @@
+cython
+numpy
+pandas
+matplotlib
+#netCDF4
+folium
+lxml
+nltk
+scipy
+scikit-learn
+pysd
+google-api-python-client
+earthengine-api
