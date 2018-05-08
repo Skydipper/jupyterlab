@@ -11,3 +11,6 @@ scikit-learn
 pysd
 google-api-python-client
 earthengine-api
+networkx
+fiona
+pillow
